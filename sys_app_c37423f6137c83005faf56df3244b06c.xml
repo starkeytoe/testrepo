@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <logo/>
+        <menu display_value="bonham">4374a7f6137c83005faf56df3244b0c8</menu>
+        <name>bonham</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_bonham</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_bonham</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>scott.starkey@snc</sys_created_by>
+        <sys_created_on>2017-08-29 14:42:30</sys_created_on>
+        <sys_id>c37423f6137c83005faf56df3244b06c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>scott.starkey@snc</sys_updated_by>
+        <sys_updated_on>2017-08-29 14:42:30</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_snc_bonham.user" name="x_snc_bonham.user">8b74a7f6137c83005faf56df3244b0c8</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
